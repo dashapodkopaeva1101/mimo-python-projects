@@ -19,4 +19,4 @@
 
 **Как запустить:**
 ```bash
-python main.py
+python game.py
