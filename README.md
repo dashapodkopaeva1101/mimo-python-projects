@@ -19,7 +19,9 @@
 
 **Как запустить:**
 ```bash
+cd rock_paper_scissors
 python game.py
+```
 
 ### 2. ToDo-лист (консольный)
 Простое приложение для управления списком задач: добавлять, удалять, просматривать.
@@ -33,3 +35,4 @@ python game.py
 ```bash
 cd todo_list
 python main.py
+```
